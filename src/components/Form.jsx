@@ -1,7 +1,6 @@
 import Checkbox from "./Checkbox"
 import RadioButton from "../RadioButtons"
 import TextInput from "./TextInput"
-import { useState } from 'react'
 
 function Form({setAnswers, answers}) {
 
